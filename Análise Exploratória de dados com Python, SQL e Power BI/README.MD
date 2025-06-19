@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados com Python e SQL
 
-Projeto desenvolvido para praticar análise e manipulação de dados utilizando Python (pandas, matplotlib, seaborn) e SQL, focando na modelagem dimensional, consultas e visualizações.
+Projeto desenvolvido para praticar análise e manipulação de dados utilizando Python (pandas, matplotlib, seaborn) e SQL, focando na modelagem dimensional, consultas e visualizações. Além do desenvolvimento de um dashboard interativo.
 
 ## Objetivo
 
@@ -10,10 +10,10 @@ Além disso, o projeto será expandido para o desenvolvimento de um dashboard in
 
 ## Estrutura do projeto
 
-- **dados/**: Arquivos CSV com dados brutos.  
-- **sql/**: Scripts SQL para criação e consulta das tabelas no SQLite.  
-- **scripts/**: Scripts Python para análise dos dados, compatíveis com IDEs como Spyder.  
-- **dashboard/**: (Futuro) Arquivos e códigos para desenvolvimento do dashboard interativo.  
+- **Dados/**: Arquivos CSV com dados brutos.  
+- **SQL/**: Scripts SQL para criação e consulta das tabelas no SQLite.  
+- **Python/**: Scripts Python para análise dos dados, compatíveis com IDEs como Spyder.  
+- **BI/**: (Futuro) Arquivos e códigos para desenvolvimento do dashboard interativo.  
 - **README.md**: Informações sobre o projeto.
 
 ## Tecnologias utilizadas
@@ -21,7 +21,7 @@ Além disso, o projeto será expandido para o desenvolvimento de um dashboard in
 - Python (pandas, matplotlib, seaborn)  
 - SQLite  
 - SQL  
-- Ferramentas para dashboard (Power BI, Tableau, Streamlit, etc.) - a definir
+- Power BI
 
 ## Funcionalidades
 
@@ -29,18 +29,10 @@ Além disso, o projeto será expandido para o desenvolvimento de um dashboard in
 - Modelagem dimensional com tabelas fato e dimensão.  
 - Consultas SQL para análise.  
 - Análise estatística básica.  
-- Visualização de dados.  
-- Desenvolvimento futuro de dashboard interativo.
+- Visualização de dados com gráficos.  
+- Desenvolvimento de dashboard interativo.
 
-## Como usar
 
-1. Clone este repositório.  
-2. Importe os dados CSV usando os scripts SQL no SQLite.  
-3. Use sua IDE preferida (como Spyder) para rodar os scripts Python e realizar análises.  
-4. Explore e modifique os scripts para praticar.  
-5. Em breve, acompanhe a criação do dashboard para visualização interativa dos dados.
-
----
 
 Projeto focado em aprendizado e desenvolvimento técnico.
 
