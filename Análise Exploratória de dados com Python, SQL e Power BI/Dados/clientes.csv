@@ -1,0 +1,21 @@
+cliente_id,nome,idade,renda_mensal,cidade
+501,Cliente 1,38,7111,São Paulo
+502,Cliente 2,60,6107,Curitiba
+503,Cliente 3,43,5304,Curitiba
+504,Cliente 4,30,6472,Salvador
+505,Cliente 5,30,9493,Salvador
+506,Cliente 6,62,11020,Rio de Janeiro
+507,Cliente 7,27,9052,Curitiba
+508,Cliente 8,49,5414,Rio de Janeiro
+509,Cliente 9,40,11281,Belo Horizonte
+510,Cliente 10,49,13504,Belo Horizonte
+511,Cliente 11,28,3572,Rio de Janeiro
+512,Cliente 12,36,6045,Belo Horizonte
+513,Cliente 13,29,8586,Belo Horizonte
+514,Cliente 14,36,8215,Belo Horizonte
+515,Cliente 15,45,14287,Belo Horizonte
+516,Cliente 16,59,7461,Belo Horizonte
+517,Cliente 17,52,6498,Curitiba
+518,Cliente 18,31,5629,Belo Horizonte
+519,Cliente 19,58,10235,Belo Horizonte
+520,Cliente 20,45,8678,Salvador
