@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env/
+venv/
+env/
+
+# SQLite database files
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Logs and databases
+*.log
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Other
+*.csv  # se quiser evitar subir CSVs grandes, remova essa linha se preferir subir os dados
