@@ -6,7 +6,7 @@ Projeto desenvolvido para praticar análise e manipulação de dados utilizando 
 
 Praticar a extração, transformação e análise de dados a partir de arquivos CSV, utilizando Python e SQL para construir modelos relacionais simples, realizar consultas e gerar insights por meio de estatística básica e visualização.
 
-Além disso, o projeto será expandido para o desenvolvimento de um dashboard interativo para facilitar a visualização e interpretação dos dados.
+Além disso, feito o desenvolvimento de um dashboard interativo para facilitar a visualização e interpretação dos dados.
 
 ## Estrutura do projeto
 
