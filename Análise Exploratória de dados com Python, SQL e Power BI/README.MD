@@ -10,10 +10,10 @@ Além disso, o projeto será expandido para o desenvolvimento de um dashboard in
 
 ## Estrutura do projeto
 
-- **Dados/**: Arquivos CSV com dados brutos.  
-- **SQL/**: Scripts SQL para criação e consulta das tabelas no SQLite.  
-- **Python/**: Scripts Python para análise dos dados, compatíveis com IDEs como Spyder.  
-- **BI/**: Arquivos e códigos para desenvolvimento do dashboard interativo.  
+- **Dados**: Arquivos CSV com dados brutos.  
+- **SQL**: Scripts SQL para criação e consulta das tabelas no SQLite.  
+- **Python**: Scripts Python para análise dos dados, compatíveis com IDEs como Spyder.  
+- **BI**: Arquivos e códigos para desenvolvimento do dashboard interativo.  
 - **README.md**: Informações sobre o projeto.
 
 ## Tecnologias utilizadas
